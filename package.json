@@ -15,13 +15,16 @@
   "devDependencies": {
     "b4a": "^1.6.7",
     "brittle": "^3.0.0",
+    "hypercore-id-encoding": "^1.3.0",
     "iambus": "^1.2.1",
+    "pear-aliases": "^1.0.2",
     "pear-ipc": "^6.5.0",
     "sodium-native": "^5.0.6",
     "standard": "^17.1.2",
     "which-runtime": "^1.3.0"
   },
   "dependencies": {
+    "pear-link": "^4.1.0",
     "pear-ref": "^1.0.1"
   }
 }
