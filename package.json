@@ -3,7 +3,7 @@
   "version": "1.0.1",
   "main": "index.js",
   "type": "commonjs",
-  "description": "Drop data, including applicaiton reset",
+  "description": "Drop data, including application reset",
   "license": "Apache-2.0",
   "author": "Holepunch Inc",
   "files": [],

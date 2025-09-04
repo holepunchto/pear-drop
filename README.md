@@ -1,6 +1,6 @@
 # pear-drop
 
-> Synchronize from-disk to app drive peer-to-peer
+> Drop data, including application reset
 
 ## Usage
 
